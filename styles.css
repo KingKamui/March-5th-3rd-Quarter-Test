@@ -1,0 +1,21 @@
+.article1{
+	font-family: Arial;
+	font-style: normal;
+	font-size: 15px;
+}
+
+.article2{
+    font-family: Arial;
+	font-style: italic;
+	font-size: 15px;
+}
+.article3{
+    font-family: Times;
+	font-style: bold;
+	font-size: 15px;
+}
+.article4{
+    font-family: Courier;
+	font-style: italic;
+	font-size: 30px;
+}
